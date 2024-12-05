@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A website all about ice cubes, their types, uses, recipes, and more!">
+    <title>The Ice Cube Factory</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Navigation Bar -->
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Ice Cubes</a></li>
+                <li><a href="#types">Types of Ice Cubes</a></li>
+                <li><a href="#recipes">Ice Cube Recipes</a></li>
+                <li><a href="#fun-facts">Fun Facts</a></li>
+                <li><a href="#how-to">How to Make Perfect Ice Cubes</a></li>
+                <li><a href="#shop">Shop Ice Cube Trays</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Home Page -->
+    <section id="home">
+        <h1>Welcome to The Ice Cube Factory!</h1>
+        <p>Explore the cool world of ice cubes. Whether you want to chill your drink or learn fun facts, we've got it all!</p>
+    </section>
+
+    <!-- About Ice Cubes -->
+    <section id="about">
+        <h2>What Are Ice Cubes?</h2>
+        <p>Ice cubes are frozen blocks of water that are commonly used to chill drinks, preserve food, and in many other creative ways.</p>
+    </section>
+
+    <!-- Types of Ice Cubes -->
+    <section id="types">
+        <h2>Types of Ice Cubes</h2>
+        <ul>
+            <li><strong>Standard Ice Cubes:</strong> Classic cube-shaped ice.</li>
+            <li><strong>Crushed Ice:</strong> Small bits perfect for cocktails.</li>
+            <li><strong>Sphere Ice:</strong> Large round ice, ideal for whiskey.</li>
+            <li><strong>Cracked Ice:</strong> Smaller pieces for rapid chilling.</li>
+            <li><strong>Flavored Ice Cubes:</strong> Ice cubes infused with fruits or herbs.</li>
+        </ul>
+    </section>
+
+    <!-- Ice Cube Recipes -->
+    <section id="recipes">
+        <h2>Ice Cube Recipes</h2>
+        <p>Get creative with ice cubes! Try these fun recipes:</p>
+        <ul>
+            <li><strong>Frozen Fruit Cubes:</strong> Add fruit slices to your ice tray and freeze for refreshing drinks.</li>
+            <li><strong>Coffee Ice Cubes:</strong> Freeze leftover coffee to make iced coffee without watering it down.</li>
+            <li><strong>Herbal Ice Cubes:</strong> Freeze herbs like mint or basil in your ice cubes for a flavor boost.</li>
+        </ul>
+    </section>
+
+    <!-- Fun Facts -->
+    <section id="fun-facts">
+        <h2>Fun Ice Cube Facts</h2>
+        <ol>
+            <li>The largest ice cube ever made was a 10-foot tall, 20,000-pound block in Iceland.</li>
+            <li>Ice cubes can improve the taste of your drinks by cooling them down without diluting too fast.</li>
+            <li>Clear ice is made by freezing water slowly to remove air bubbles.</li>
+        </ol>
+    </section>
+
+    <!-- How to Make Perfect Ice Cubes -->
+    <section id="how-to">
+        <h2>How to Make Perfect Ice Cubes</h2>
+        <p>Follow these steps for crystal clear ice:</p>
+        <ul>
+            <li>Use pure or distilled water for clarity.</li>
+            <li>Freeze water slowly to remove air bubbles.</li>
+            <li>Choose the right molds for your needs.</li>
+            <li>Store your ice in sealed bags to keep it fresh.</li>
+        </ul>
+    </section>
+
+    <!-- Shop Ice Cube Trays -->
+    <section id="shop">
+        <h2>Shop Ice Cube Trays</h2>
+        <p>Check out our collection of ice cube trays for perfect ice every time:</p>
+        <ul>
+            <li><strong>Standard Silicone Ice Cube Tray</strong> - Flexible and durable.</li>
+            <li><strong>Whiskey Sphere Mold</strong> - Large, slow-melting spheres.</li>
+            <li><strong>Novelty Ice Cube Molds</strong> - Fun shapes like stars and hearts.</li>
+        </ul>
+    </section>
+
+    <!-- Contact Us -->
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Have a question or want to learn more? Get in touch with us!</p>
+        <p>Email: <a href="mailto:info@icecubefactory.com">info@icecubefactory.com</a></p>
+        <p>Phone: 1-800-ICE-CUBES</p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 The Ice Cube Factory. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
